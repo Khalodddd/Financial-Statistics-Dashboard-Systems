@@ -1,6 +1,6 @@
 # Financial-Statistics-Dashboard-Systems
 
-![alt text]("C:\Users\Blu-Ray\Desktop\mygit\Images\Screenshot 2024-04-14 101053.png")
+
 
 
 
