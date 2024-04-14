@@ -1,6 +1,6 @@
 # Financial-Statistics-Dashboard-Systems
 
- <img src='images/Screenshot 2024-04-14 101053.png' width height='150' width='200' height='200'>
+![Screenshot 2024-04-14 101053](https://github.com/Khalodddd/Financial-Statistics-Dashboard-Systems/assets/90678093/e5d624a4-9bbc-443f-987e-474b8b7f414d)
 
 
 
