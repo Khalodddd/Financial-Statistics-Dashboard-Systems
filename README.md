@@ -1,4 +1,11 @@
 # Financial-Statistics-Dashboard-Systems
+
+![Alt text](relative%20"C:\Users\Blu-Ray\Desktop\mygit\Images\Screenshot 2024-04-14 101053.png"?raw=true "Title")
+
+
+
+
+
 ### Analysis for +47 types of data
 ### Notes and comments help you to use and update
 ### Hyperlink buttons
